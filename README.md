@@ -1,8 +1,8 @@
 # Oi, sou Marlon Pereira 👋
 
-## Intro
+## Introdução
 
-Estudando programação desde 2015, atualmente faço faculdade de análise e desenvolvimento de sistema.
+Estudo programação desde 2015, atualmente faço faculdade de Análise e desenvolvimento de sistema.
 
 - Html
 - Css
