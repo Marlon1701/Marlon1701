@@ -7,6 +7,6 @@ Estudo programação desde 2015, atualmente faço faculdade de Análise e desenv
 - Html
 - Css
 - JavaScript
-- PostgreSql
+- Reactjs
 - Git
 - Github
